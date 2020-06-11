@@ -1,0 +1,7 @@
+Connections between Top and bottom boards
+TIA
+PPG
+SDA
+SCL
+3.3V/GND
+LED.CTRL
