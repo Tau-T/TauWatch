@@ -5,3 +5,29 @@ SDA
 SCL
 3.3V/GND
 LED.CTRL
+
+Position of 7 pin connector: 
+5 mm right 
+33 mm above origin. 
+
+POWER MANAGEMENT
+D27/CHRG.STATUS (input)
+A4/BATT (input)
+
+PPG CIRCUIT
+D29/LED.CTRL (output)
+A6/TIA(input)
+A7/PPG(input)
+
+OLED PINS
+D3/RESET.OLED(output)
+D4/DC.OLED(output)
+D16/CS.OLED (output)
+
+SD Card
+D5/CD1(output)
+D7/SD.CS(output)
+
+BUTTONS INPUTS
+D11/SW1(input)
+D15/SW2(input)
