@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="1" unitdist="mil" unit="mm" style="lines" multiple="1" display="no" altdistance="5" altunitdist="mil" altunit="mil"/>
+<grid distance="1" unitdist="mil" unit="mil" style="lines" multiple="1" display="no" altdistance="5" altunitdist="mil" altunit="mil"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="16" fill="1" visible="no" active="no"/>
@@ -739,9 +739,9 @@ design rules under a new name.</description>
 <attribute name="NAME" x="47.6758" y="17.0434" size="0.6604" layer="25"/>
 <attribute name="VALUE" x="47.6758" y="14.5034" size="1.27" layer="27"/>
 </element>
-<element name="U$4" library="LinnesLab-DigitalIC" package="SOT-23-8" package3d_urn="urn:adsk.eagle:package:17879439/2" value="AD5171" x="20.1422" y="11.557" smashed="yes">
-<attribute name="NAME" x="17.1422" y="13.257" size="0.6604" layer="25"/>
-<attribute name="VALUE" x="17.2422" y="8.557" size="0.6604" layer="27"/>
+<element name="U$4" library="LinnesLab-DigitalIC" package="SOT-23-8" package3d_urn="urn:adsk.eagle:package:17879439/2" value="AD5171" x="19.939" y="5.5626" smashed="yes">
+<attribute name="NAME" x="16.939" y="7.2626" size="0.6604" layer="25"/>
+<attribute name="VALUE" x="17.039" y="2.5626" size="0.6604" layer="27"/>
 </element>
 <element name="R13" library="LinnesLab-Passives" package="R0603" package3d_urn="urn:adsk.eagle:package:15661944/2" value="220k" x="48.387" y="17.8816" smashed="yes">
 <attribute name="NAME" x="47.752" y="18.5166" size="0.6604" layer="25"/>
@@ -759,53 +759,53 @@ design rules under a new name.</description>
 <attribute name="NAME" x="51.4096" y="24.0792" size="0.6604" layer="25" rot="R270"/>
 <attribute name="VALUE" x="48.8696" y="24.0792" size="1.27" layer="27" rot="R270"/>
 </element>
-<element name="C16" library="LinnesLab-Passives" package="C0603" value="2.2u" x="24.6888" y="20.7772" smashed="yes">
-<attribute name="NAME" x="24.0538" y="21.4122" size="0.6604" layer="25"/>
-<attribute name="VALUE" x="24.0538" y="18.8722" size="1.27" layer="27"/>
+<element name="C16" library="LinnesLab-Passives" package="C0603" value="2.2u" x="27.5844" y="16.3068" smashed="yes">
+<attribute name="NAME" x="26.9494" y="16.9418" size="0.6604" layer="25"/>
+<attribute name="VALUE" x="26.9494" y="14.4018" size="1.27" layer="27"/>
 </element>
-<element name="R15" library="LinnesLab-Passives" package="R0603" package3d_urn="urn:adsk.eagle:package:15661944/2" value="220k" x="28.3464" y="19.1262" smashed="yes">
-<attribute name="NAME" x="27.7114" y="19.7612" size="0.6604" layer="25"/>
-<attribute name="VALUE" x="27.7114" y="17.2212" size="1.27" layer="27"/>
+<element name="R15" library="LinnesLab-Passives" package="R0603" package3d_urn="urn:adsk.eagle:package:15661944/2" value="220k" x="30.988" y="10.6172" smashed="yes" rot="R90">
+<attribute name="NAME" x="30.353" y="9.9822" size="0.6604" layer="25" rot="R90"/>
+<attribute name="VALUE" x="32.893" y="9.9822" size="1.27" layer="27" rot="R90"/>
 </element>
-<element name="R16" library="LinnesLab-Passives" package="R0603" package3d_urn="urn:adsk.eagle:package:15661944/2" value="" x="13.7922" y="11.7348" smashed="yes">
-<attribute name="NAME" x="13.1572" y="12.3698" size="0.6604" layer="25"/>
-<attribute name="VALUE" x="13.1572" y="9.8298" size="1.27" layer="27"/>
+<element name="R16" library="LinnesLab-Passives" package="R0603" package3d_urn="urn:adsk.eagle:package:15661944/2" value="" x="19.7358" y="8.8646" smashed="yes">
+<attribute name="NAME" x="19.1008" y="9.4996" size="0.6604" layer="25"/>
+<attribute name="VALUE" x="19.1008" y="6.9596" size="1.27" layer="27"/>
 </element>
-<element name="OP3" library="LinnesLab-AnalogIC" package="SO14" package3d_urn="urn:adsk.eagle:package:17879189/2" value="" x="54.9148" y="17.4752" smashed="yes" rot="R270">
-<attribute name="NAME" x="53.0098" y="22.0472" size="0.6604" layer="25"/>
-<attribute name="VALUE" x="53.0098" y="11.6332" size="1.27" layer="27"/>
+<element name="OP3" library="LinnesLab-AnalogIC" package="SO14" package3d_urn="urn:adsk.eagle:package:17879189/2" value="" x="9.9822" y="24.7142" smashed="yes" rot="R270">
+<attribute name="NAME" x="8.0772" y="29.2862" size="0.6604" layer="25"/>
+<attribute name="VALUE" x="8.0772" y="18.8722" size="1.27" layer="27"/>
 </element>
-<element name="R17" library="LinnesLab-Passives" package="R0402" package3d_urn="urn:adsk.eagle:package:15661898/2" value="10k" x="41.5036" y="20.9804" smashed="yes">
-<attribute name="NAME" x="40.8686" y="21.6154" size="1.27" layer="25"/>
-<attribute name="VALUE" x="40.8686" y="19.0754" size="1.27" layer="27"/>
+<element name="R17" library="LinnesLab-Passives" package="R0402" package3d_urn="urn:adsk.eagle:package:15661898/2" value="10k" x="32.4612" y="21.0566" smashed="yes">
+<attribute name="NAME" x="31.8262" y="21.6916" size="1.27" layer="25"/>
+<attribute name="VALUE" x="31.8262" y="19.1516" size="1.27" layer="27"/>
 </element>
-<element name="R18" library="LinnesLab-Passives" package="R0402" package3d_urn="urn:adsk.eagle:package:15661898/2" value="10k" x="41.5798" y="17.6784" smashed="yes">
-<attribute name="NAME" x="40.9448" y="18.3134" size="1.27" layer="25"/>
-<attribute name="VALUE" x="40.9448" y="15.7734" size="1.27" layer="27"/>
+<element name="R18" library="LinnesLab-Passives" package="R0402" package3d_urn="urn:adsk.eagle:package:15661898/2" value="10k" x="32.258" y="19.5072" smashed="yes" rot="R180">
+<attribute name="NAME" x="32.893" y="18.8722" size="1.27" layer="25" rot="R180"/>
+<attribute name="VALUE" x="32.893" y="21.4122" size="1.27" layer="27" rot="R180"/>
 </element>
-<element name="Q1" library="LinnesLab-DiscreteSemi" package="SOT23-3" package3d_urn="urn:adsk.eagle:package:15662047/2" value="" x="21.2344" y="15.8242" smashed="yes">
-<attribute name="NAME" x="19.5834" y="15.8242" size="0.6096" layer="25" ratio="20" rot="R90" align="bottom-center"/>
-<attribute name="VALUE" x="22.8854" y="15.8242" size="0.6096" layer="27" ratio="20" rot="R90" align="top-center"/>
+<element name="Q1" library="LinnesLab-DiscreteSemi" package="SOT23-3" package3d_urn="urn:adsk.eagle:package:15662047/2" value="" x="23.7998" y="5.9944" smashed="yes">
+<attribute name="NAME" x="22.1488" y="5.9944" size="0.6096" layer="25" ratio="20" rot="R90" align="bottom-center"/>
+<attribute name="VALUE" x="25.4508" y="5.9944" size="0.6096" layer="27" ratio="20" rot="R90" align="top-center"/>
 </element>
-<element name="C17" library="LinnesLab-Passives" package="C0603" value="100n" x="14.6304" y="19.4056" smashed="yes">
-<attribute name="NAME" x="13.9954" y="20.0406" size="1.27" layer="25"/>
-<attribute name="VALUE" x="13.9954" y="17.5006" size="1.27" layer="27"/>
+<element name="C17" library="LinnesLab-Passives" package="C0603" value="100n" x="40.9194" y="26.035" smashed="yes">
+<attribute name="NAME" x="40.2844" y="26.67" size="1.27" layer="25"/>
+<attribute name="VALUE" x="40.2844" y="24.13" size="1.27" layer="27"/>
 </element>
-<element name="C18" library="LinnesLab-Passives" package="C0603" value="100n" x="14.6304" y="14.5288" smashed="yes">
-<attribute name="NAME" x="13.9954" y="15.1638" size="1.27" layer="25"/>
-<attribute name="VALUE" x="13.9954" y="12.6238" size="1.27" layer="27"/>
+<element name="C18" library="LinnesLab-Passives" package="C0603" value="100n" x="9.8044" y="5.2324" smashed="yes" rot="R270">
+<attribute name="NAME" x="10.4394" y="5.8674" size="1.27" layer="25" rot="R270"/>
+<attribute name="VALUE" x="7.8994" y="5.8674" size="1.27" layer="27" rot="R270"/>
 </element>
-<element name="U1" library="LinnesLab-DigitalIC" package="SO16" package3d_urn="urn:adsk.eagle:package:16423/2" value="AD5242-SO16" x="28.2448" y="9.8298" smashed="yes" rot="R90">
-<attribute name="NAME" x="30.2768" y="4.6228" size="1.27" layer="25" ratio="10" rot="R180"/>
-<attribute name="VALUE" x="28.8798" y="5.7658" size="1.27" layer="27" ratio="10" rot="R90"/>
+<element name="U1" library="LinnesLab-DigitalIC" package="SO16" package3d_urn="urn:adsk.eagle:package:16423/2" value="AD5242-SO16" x="15.7734" y="-5.1816" smashed="yes" rot="R90">
+<attribute name="NAME" x="17.8054" y="-10.3886" size="1.27" layer="25" ratio="10" rot="R180"/>
+<attribute name="VALUE" x="16.4084" y="-9.2456" size="1.27" layer="27" ratio="10" rot="R90"/>
 </element>
-<element name="R19" library="LinnesLab-Passives" package="R0603" package3d_urn="urn:adsk.eagle:package:15661944/2" value="220k" x="-9.7282" y="30.607" smashed="yes">
-<attribute name="NAME" x="-10.3632" y="31.242" size="1.27" layer="25"/>
-<attribute name="VALUE" x="-10.3632" y="28.702" size="1.27" layer="27"/>
+<element name="R19" library="LinnesLab-Passives" package="R0603" package3d_urn="urn:adsk.eagle:package:15661944/2" value="220k" x="-4.8514" y="28.9052" smashed="yes">
+<attribute name="NAME" x="-5.4864" y="29.5402" size="1.27" layer="25"/>
+<attribute name="VALUE" x="-5.4864" y="27.0002" size="1.27" layer="27"/>
 </element>
-<element name="R20" library="LinnesLab-Passives" package="R0603" package3d_urn="urn:adsk.eagle:package:15661944/2" value="1M" x="-9.652" y="26.3144" smashed="yes">
-<attribute name="NAME" x="-10.287" y="26.9494" size="1.27" layer="25"/>
-<attribute name="VALUE" x="-10.287" y="24.4094" size="1.27" layer="27"/>
+<element name="R20" library="LinnesLab-Passives" package="R0603" package3d_urn="urn:adsk.eagle:package:15661944/2" value="1M" x="-9.0424" y="4.8006" smashed="yes">
+<attribute name="NAME" x="-9.6774" y="5.4356" size="1.27" layer="25"/>
+<attribute name="VALUE" x="-9.6774" y="2.8956" size="1.27" layer="27"/>
 </element>
 <element name="R21" library="LinnesLab-Passives" package="R0603" package3d_urn="urn:adsk.eagle:package:15661944/2" value="220k" x="-9.652" y="21.2344" smashed="yes">
 <attribute name="NAME" x="-10.287" y="21.8694" size="1.27" layer="25"/>
@@ -815,41 +815,41 @@ design rules under a new name.</description>
 <attribute name="NAME" x="-10.287" y="16.7894" size="1.27" layer="25"/>
 <attribute name="VALUE" x="-10.287" y="14.2494" size="1.27" layer="27"/>
 </element>
-<element name="C19" library="LinnesLab-Passives" package="C0603" value="2.2n" x="-9.652" y="11.0744" smashed="yes">
-<attribute name="NAME" x="-10.287" y="11.7094" size="1.27" layer="25"/>
-<attribute name="VALUE" x="-10.287" y="9.1694" size="1.27" layer="27"/>
+<element name="C19" library="LinnesLab-Passives" package="C0603" value="2.2n" x="-9.1948" y="12.4714" smashed="yes" rot="R180">
+<attribute name="NAME" x="-8.5598" y="11.8364" size="1.27" layer="25" rot="R180"/>
+<attribute name="VALUE" x="-8.5598" y="14.3764" size="1.27" layer="27" rot="R180"/>
 </element>
-<element name="R23" library="LinnesLab-Passives" package="R0603" package3d_urn="urn:adsk.eagle:package:15661944/2" value="1M" x="-9.652" y="5.9944" smashed="yes">
-<attribute name="NAME" x="-10.287" y="6.6294" size="1.27" layer="25"/>
-<attribute name="VALUE" x="-10.287" y="4.0894" size="1.27" layer="27"/>
+<element name="R23" library="LinnesLab-Passives" package="R0603" package3d_urn="urn:adsk.eagle:package:15661944/2" value="1M" x="-8.9154" y="8.255" smashed="yes" rot="R180">
+<attribute name="NAME" x="-8.2804" y="7.62" size="1.27" layer="25" rot="R180"/>
+<attribute name="VALUE" x="-8.2804" y="10.16" size="1.27" layer="27" rot="R180"/>
 </element>
-<element name="OP4" library="LinnesLab-AnalogIC" package="SOT23-5" value="" x="41.529" y="14.097" smashed="yes">
-<attribute name="NAME" x="39.751" y="12.319" size="1.27" layer="25" ratio="10" rot="R90"/>
-<attribute name="VALUE" x="44.577" y="12.319" size="1.27" layer="27" ratio="10" rot="R90"/>
+<element name="OP4" library="LinnesLab-AnalogIC" package="SOT23-5" value="" x="41.402" y="10.3886" smashed="yes">
+<attribute name="NAME" x="39.624" y="8.6106" size="1.27" layer="25" ratio="10" rot="R90"/>
+<attribute name="VALUE" x="44.45" y="8.6106" size="1.27" layer="27" ratio="10" rot="R90"/>
 </element>
-<element name="C20" library="LinnesLab-Passives" package="C0603" value="22u" x="10.033" y="25.1206" smashed="yes">
-<attribute name="NAME" x="9.398" y="25.7556" size="1.27" layer="25"/>
-<attribute name="VALUE" x="9.398" y="23.2156" size="1.27" layer="27"/>
+<element name="C20" library="LinnesLab-Passives" package="C0603" value="22u" x="10.6172" y="16.1798" smashed="yes">
+<attribute name="NAME" x="9.9822" y="16.8148" size="1.27" layer="25"/>
+<attribute name="VALUE" x="9.9822" y="14.2748" size="1.27" layer="27"/>
 </element>
-<element name="R24" library="LinnesLab-Passives" package="R0603" package3d_urn="urn:adsk.eagle:package:15661944/2" value="10k" x="10.033" y="20.0406" smashed="yes">
-<attribute name="NAME" x="9.398" y="20.6756" size="1.27" layer="25"/>
-<attribute name="VALUE" x="9.398" y="18.1356" size="1.27" layer="27"/>
+<element name="R24" library="LinnesLab-Passives" package="R0603" package3d_urn="urn:adsk.eagle:package:15661944/2" value="10k" x="10.2616" y="14.2494" smashed="yes">
+<attribute name="NAME" x="9.6266" y="14.8844" size="1.27" layer="25"/>
+<attribute name="VALUE" x="9.6266" y="12.3444" size="1.27" layer="27"/>
 </element>
-<element name="C21" library="LinnesLab-Passives" package="C0603" value="22n" x="10.033" y="14.9606" smashed="yes">
-<attribute name="NAME" x="9.398" y="15.5956" size="1.27" layer="25"/>
-<attribute name="VALUE" x="9.398" y="13.0556" size="1.27" layer="27"/>
+<element name="C21" library="LinnesLab-Passives" package="C0603" value="22n" x="10.2108" y="12.4714" smashed="yes">
+<attribute name="NAME" x="9.5758" y="13.1064" size="1.27" layer="25"/>
+<attribute name="VALUE" x="9.5758" y="10.5664" size="1.27" layer="27"/>
 </element>
-<element name="C22" library="LinnesLab-Passives" package="C0603" value="100n" x="10.033" y="9.8806" smashed="yes">
-<attribute name="NAME" x="9.398" y="10.5156" size="1.27" layer="25"/>
-<attribute name="VALUE" x="9.398" y="7.9756" size="1.27" layer="27"/>
+<element name="C22" library="LinnesLab-Passives" package="C0603" value="100n" x="6.8326" y="5.2578" smashed="yes" rot="R270">
+<attribute name="NAME" x="7.4676" y="5.8928" size="1.27" layer="25" rot="R270"/>
+<attribute name="VALUE" x="4.9276" y="5.8928" size="1.27" layer="27" rot="R270"/>
 </element>
-<element name="IMU1" library="LinnesLab-Sensors" package="LSM6DS3_CAST" value="LSM6DS3_CAST" x="8.8138" y="5.3594" smashed="yes">
-<attribute name="NAME" x="6.2738" y="8.5344" size="0.6604" layer="25"/>
-<attribute name="VALUE" x="6.2738" y="0.9144" size="0.6604" layer="27"/>
+<element name="IMU1" library="LinnesLab-Sensors" package="LSM6DS3_CAST" value="LSM6DS3_CAST" x="14.5796" y="6.0198" smashed="yes">
+<attribute name="NAME" x="12.0396" y="9.1948" size="0.6604" layer="25"/>
+<attribute name="VALUE" x="12.0396" y="1.5748" size="0.6604" layer="27"/>
 </element>
-<element name="C24" library="LinnesLab-Passives" package="C0603" value="100n" x="4.1148" y="5.1054" smashed="yes" rot="R270">
-<attribute name="NAME" x="4.7498" y="5.7404" size="0.6604" layer="25" rot="R270"/>
-<attribute name="VALUE" x="2.2098" y="5.7404" size="0.6604" layer="27" rot="R270"/>
+<element name="C24" library="LinnesLab-Passives" package="C0603" value="100n" x="4.318" y="5.1054" smashed="yes" rot="R270">
+<attribute name="NAME" x="4.953" y="5.7404" size="0.6604" layer="25" rot="R270"/>
+<attribute name="VALUE" x="2.413" y="5.7404" size="0.6604" layer="27" rot="R270"/>
 </element>
 <element name="J1" library="LinnesLab-Connectors" package="1X07" value="" x="5" y="33" smashed="yes">
 <attribute name="NAME" x="3.73" y="34.397" size="0.6096" layer="25" font="vector" ratio="20"/>
@@ -877,24 +877,30 @@ design rules under a new name.</description>
 <contactref element="C22" pad="1"/>
 <contactref element="IMU1" pad="1"/>
 <contactref element="C24" pad="1"/>
-<wire x1="41.529" y1="12.791" x2="42.479" y2="12.791" width="0" layer="19" extent="1-1"/>
-<wire x1="-10.502" y1="21.2344" x2="41.529" y2="12.791" width="0" layer="19" extent="1-1"/>
-<wire x1="57.5148" y1="17.4752" x2="-10.502" y2="21.2344" width="0" layer="19" extent="1-1"/>
-<wire x1="25.1714" y1="14.2748" x2="-10.502" y2="21.2344" width="0" layer="19" extent="1-1"/>
-<wire x1="25.1714" y1="13.0048" x2="25.1714" y2="14.2748" width="0" layer="19" extent="1-1"/>
-<wire x1="25.1714" y1="11.7348" x2="25.1714" y2="13.0048" width="0" layer="19" extent="1-1"/>
-<wire x1="25.1714" y1="10.4648" x2="25.1714" y2="11.7348" width="0" layer="19" extent="1-1"/>
-<wire x1="47.4608" y1="16.4084" x2="57.5148" y2="17.4752" width="0" layer="19" extent="1-1"/>
-<wire x1="20.27" y1="24.08" x2="47.4608" y2="16.4084" width="0" layer="19" extent="1-1"/>
-<wire x1="40.9298" y1="17.6784" x2="47.4608" y2="16.4084" width="0" layer="19" extent="1-1"/>
-<wire x1="13.7804" y1="19.4056" x2="20.27" y2="24.08" width="0" layer="19" extent="1-1"/>
-<wire x1="13.7804" y1="14.5288" x2="13.7804" y2="19.4056" width="0" layer="19" extent="1-1"/>
-<wire x1="20.4516" y1="10.3806" x2="13.7804" y2="14.5288" width="0" layer="19" extent="1-1"/>
-<wire x1="22.1844" y1="14.8242" x2="20.4516" y2="10.3806" width="0" layer="19" extent="1-1"/>
-<wire x1="-10.5782" y1="30.607" x2="-10.502" y2="21.2344" width="0" layer="19" extent="1-1"/>
-<wire x1="6.2738" y1="6.6294" x2="13.7804" y2="14.5288" width="0" layer="19" extent="1-1"/>
-<wire x1="4.1148" y1="5.9554" x2="6.2738" y2="6.6294" width="0" layer="19" extent="1-1"/>
-<wire x1="9.183" y1="9.8806" x2="25.1714" y2="14.2748" width="0" layer="19" extent="1-1"/>
+<polygon width="0.2032" layer="16" isolate="0.2286">
+<vertex x="3.2258" y="35.052"/>
+<vertex x="35.179" y="35.052"/>
+<vertex x="35.179" y="2.8448"/>
+<vertex x="3.2258" y="2.8448"/>
+</polygon>
+<wire x1="32.908" y1="19.5072" x2="40.0694" y2="26.035" width="0" layer="19" extent="1-1"/>
+<wire x1="47.4608" y1="16.4084" x2="40.0694" y2="26.035" width="0" layer="19" extent="1-1"/>
+<wire x1="42.352" y1="9.0826" x2="47.4608" y2="16.4084" width="0" layer="19" extent="1-1"/>
+<wire x1="41.402" y1="9.0826" x2="42.352" y2="9.0826" width="0" layer="19" extent="1-1"/>
+<wire x1="20.27" y1="24.08" x2="32.908" y2="19.5072" width="0" layer="19" extent="1-1"/>
+<wire x1="12.5822" y1="24.7142" x2="20.27" y2="24.08" width="0" layer="19" extent="1-1"/>
+<wire x1="24.7498" y1="4.9944" x2="32.908" y2="19.5072" width="0" layer="19" extent="1-1"/>
+<wire x1="20.2484" y1="4.3862" x2="24.7498" y2="4.9944" width="0" layer="19" extent="1-1"/>
+<wire x1="12.0396" y1="7.2898" x2="20.2484" y2="4.3862" width="0" layer="19" extent="1-1"/>
+<wire x1="9.8044" y1="6.0824" x2="12.0396" y2="7.2898" width="0" layer="19" extent="1-1"/>
+<wire x1="6.8326" y1="6.1078" x2="9.8044" y2="6.0824" width="0" layer="19" extent="1-1"/>
+<wire x1="4.318" y1="5.9554" x2="6.8326" y2="6.1078" width="0" layer="19" extent="1-1"/>
+<wire x1="12.7" y1="-0.7366" x2="9.8044" y2="6.0824" width="0" layer="19" extent="1-1"/>
+<wire x1="12.7" y1="-2.0066" x2="12.7" y2="-0.7366" width="0" layer="19" extent="1-1"/>
+<wire x1="12.7" y1="-3.2766" x2="12.7" y2="-2.0066" width="0" layer="19" extent="1-1"/>
+<wire x1="12.7" y1="-4.5466" x2="12.7" y2="-3.2766" width="0" layer="19" extent="1-1"/>
+<wire x1="-5.7014" y1="28.9052" x2="12.5822" y2="24.7142" width="0" layer="19" extent="1-1"/>
+<wire x1="-10.502" y1="21.2344" x2="-5.7014" y2="28.9052" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="3.3V">
 <contactref element="C11" pad="2"/>
@@ -913,53 +919,53 @@ design rules under a new name.</description>
 <contactref element="C22" pad="2"/>
 <contactref element="IMU1" pad="2"/>
 <contactref element="C24" pad="2"/>
-<wire x1="29.1964" y1="19.1262" x2="40.579" y2="15.403" width="0" layer="19" extent="1-1"/>
-<wire x1="52.3148" y1="17.4752" x2="29.1964" y2="19.1262" width="0" layer="19" extent="1-1"/>
-<wire x1="49.237" y1="17.8816" x2="52.3148" y2="17.4752" width="0" layer="19" extent="1-1"/>
-<wire x1="49.1608" y1="16.4084" x2="49.237" y2="17.8816" width="0" layer="19" extent="1-1"/>
-<wire x1="42.1536" y1="20.9804" x2="49.237" y2="17.8816" width="0" layer="19" extent="1-1"/>
-<wire x1="31.3182" y1="10.4648" x2="29.1964" y2="19.1262" width="0" layer="19" extent="1-1"/>
-<wire x1="31.3182" y1="11.7348" x2="31.3182" y2="10.4648" width="0" layer="19" extent="1-1"/>
-<wire x1="15.4804" y1="19.4056" x2="49.1608" y2="16.4084" width="0" layer="19" extent="1-1"/>
-<wire x1="15.4804" y1="14.5288" x2="15.4804" y2="19.4056" width="0" layer="19" extent="1-1"/>
-<wire x1="18.365" y1="13.92" x2="15.4804" y2="14.5288" width="0" layer="19" extent="1-1"/>
-<wire x1="20.4516" y1="12.7334" x2="18.365" y2="13.92" width="0" layer="19" extent="1-1"/>
-<wire x1="19.8016" y1="10.3806" x2="18.365" y2="13.92" width="0" layer="19" extent="1-1"/>
-<wire x1="6.2738" y1="4.0894" x2="15.4804" y2="14.5288" width="0" layer="19" extent="1-1"/>
-<wire x1="4.1148" y1="4.2554" x2="6.2738" y2="4.0894" width="0" layer="19" extent="1-1"/>
-<wire x1="10.883" y1="9.8806" x2="31.3182" y2="11.7348" width="0" layer="19" extent="1-1"/>
+<polygon width="0.2032" layer="1" isolate="0.2286">
+<vertex x="3.1242" y="35.1282"/>
+<vertex x="35.2044" y="35.1282"/>
+<vertex x="35.2044" y="25.019"/>
+<vertex x="35.2044" y="2.8448"/>
+<vertex x="3.1242" y="2.8448"/>
+</polygon>
+<wire x1="33.1112" y1="21.0566" x2="41.7694" y2="26.035" width="0" layer="19" extent="1-1"/>
+<wire x1="18.8468" y1="-3.2766" x2="19.5984" y2="4.3862" width="0" layer="19" extent="1-1"/>
+<wire x1="18.8468" y1="-4.5466" x2="18.8468" y2="-3.2766" width="0" layer="19" extent="1-1"/>
+<wire x1="40.452" y1="11.6946" x2="30.988" y2="11.4672" width="0" layer="19" extent="1-1"/>
+<wire x1="49.1608" y1="16.4084" x2="40.452" y2="11.6946" width="0" layer="19" extent="1-1"/>
+<wire x1="49.237" y1="17.8816" x2="49.1608" y2="16.4084" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="SDA">
 <contactref element="U$4" pad="5"/>
 <contactref element="U1" pad="8"/>
 <contactref element="IMU1" pad="4"/>
-<wire x1="21.1016" y1="12.7334" x2="31.3182" y2="14.2748" width="0" layer="19" extent="1-1"/>
-<wire x1="11.3538" y1="6.6294" x2="21.1016" y2="12.7334" width="0" layer="19" extent="1-1"/>
+<wire x1="17.1196" y1="7.2898" x2="20.8984" y2="6.739" width="0" layer="19" extent="1-1"/>
+<wire x1="18.8468" y1="-0.7366" x2="20.8984" y2="6.739" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="SCL">
 <contactref element="U$4" pad="4"/>
 <contactref element="U1" pad="7"/>
 <contactref element="IMU1" pad="3"/>
-<wire x1="21.1016" y1="10.3806" x2="31.3182" y2="13.0048" width="0" layer="19" extent="1-1"/>
-<wire x1="11.3538" y1="4.0894" x2="21.1016" y2="10.3806" width="0" layer="19" extent="1-1"/>
+<wire x1="17.1196" y1="4.7498" x2="20.8984" y2="4.3862" width="0" layer="19" extent="1-1"/>
+<wire x1="18.8468" y1="-2.0066" x2="20.8984" y2="4.3862" width="0" layer="19" extent="1-1"/>
 </signal>
-<signal name="TIA">
+<signal name="A6/TIA">
 <contactref element="C10" pad="2"/>
 <contactref element="U1" pad="3"/>
 <contactref element="C15" pad="1"/>
 <contactref element="OP4" pad="1"/>
-<wire x1="55.9308" y1="24.9292" x2="40.579" y2="12.791" width="0" layer="19" extent="1-1"/>
+<contactref element="J1" pad="5"/>
 <wire x1="50.7746" y1="24.2942" x2="55.9308" y2="24.9292" width="0" layer="19" extent="1-1"/>
-<wire x1="31.3182" y1="7.9248" x2="50.7746" y2="24.2942" width="0" layer="19" extent="1-1"/>
+<wire x1="40.452" y1="9.0826" x2="50.7746" y2="24.2942" width="0" layer="19" extent="1-1"/>
+<wire x1="18.8468" y1="-7.0866" x2="40.452" y2="9.0826" width="0" layer="19" extent="1-1"/>
+<wire x1="15.16" y1="33" x2="40.452" y2="9.0826" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="PD.C">
 <contactref element="U$3" pad="PD"/>
 <contactref element="C10" pad="1"/>
 <contactref element="U1" pad="4"/>
 <contactref element="OP4" pad="4"/>
-<wire x1="55.9308" y1="23.2292" x2="42.479" y2="15.403" width="0" layer="19" extent="1-1"/>
-<wire x1="17.73" y1="24.08" x2="55.9308" y2="23.2292" width="0" layer="19" extent="1-1"/>
-<wire x1="31.3182" y1="9.1948" x2="17.73" y2="24.08" width="0" layer="19" extent="1-1"/>
+<wire x1="42.352" y1="11.6946" x2="55.9308" y2="23.2292" width="0" layer="19" extent="1-1"/>
+<wire x1="17.73" y1="24.08" x2="42.352" y2="11.6946" width="0" layer="19" extent="1-1"/>
+<wire x1="18.8468" y1="-5.8166" x2="42.352" y2="11.6946" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="LED.C">
 <contactref element="U$3" pad="LD1"/>
@@ -967,7 +973,7 @@ design rules under a new name.</description>
 <signal name="N$8">
 <contactref element="R16" pad="2"/>
 <contactref element="Q1" pad="1"/>
-<wire x1="14.6422" y1="11.7348" x2="20.2844" y2="14.8242" width="0" layer="19" extent="1-1"/>
+<wire x1="22.8498" y1="4.9944" x2="20.5858" y2="8.8646" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="VREF">
 <contactref element="OP3" pad="13"/>
@@ -975,27 +981,29 @@ design rules under a new name.</description>
 <contactref element="R20" pad="1"/>
 <contactref element="R23" pad="1"/>
 <contactref element="OP3" pad="3"/>
-<wire x1="57.5148" y1="20.0152" x2="-10.502" y2="26.3144" width="0" layer="19" extent="1-1"/>
-<wire x1="57.5148" y1="21.2852" x2="57.5148" y2="20.0152" width="0" layer="19" extent="1-1"/>
-<wire x1="52.3148" y1="18.7452" x2="57.5148" y2="20.0152" width="0" layer="19" extent="1-1"/>
-<wire x1="-10.502" y1="5.9944" x2="-10.502" y2="26.3144" width="0" layer="19" extent="1-1"/>
+<wire x1="12.5822" y1="27.2542" x2="12.5822" y2="28.5242" width="0" layer="19" extent="1-1"/>
+<wire x1="7.3822" y1="25.9842" x2="12.5822" y2="27.2542" width="0" layer="19" extent="1-1"/>
+<wire x1="-8.0654" y1="8.255" x2="7.3822" y2="25.9842" width="0" layer="19" extent="1-1"/>
+<wire x1="-9.8924" y1="4.8006" x2="-8.0654" y2="8.255" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$9">
 <contactref element="U$4" pad="7"/>
 <contactref element="U$4" pad="1"/>
 <contactref element="R16" pad="1"/>
-<wire x1="19.1516" y1="10.3806" x2="19.8016" y2="12.7334" width="0" layer="19" extent="1-1"/>
-<wire x1="12.9422" y1="11.7348" x2="19.1516" y2="10.3806" width="0" layer="19" extent="1-1"/>
+<wire x1="19.5984" y1="6.739" x2="18.8858" y2="8.8646" width="0" layer="19" extent="1-1"/>
+<wire x1="18.9484" y1="4.3862" x2="19.5984" y2="6.739" width="0" layer="19" extent="1-1"/>
 </signal>
-<signal name="LED.CTRL">
+<signal name="D29/LED.CTRL">
 <contactref element="U$4" pad="8"/>
+<contactref element="J1" pad="6"/>
+<wire x1="18.9484" y1="6.739" x2="17.7" y2="33" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$10">
 <contactref element="OP3" pad="12"/>
 <contactref element="R17" pad="1"/>
 <contactref element="R18" pad="2"/>
-<wire x1="42.2298" y1="17.6784" x2="57.5148" y2="18.7452" width="0" layer="19" extent="1-1"/>
-<wire x1="40.8536" y1="20.9804" x2="42.2298" y2="17.6784" width="0" layer="19" extent="1-1"/>
+<wire x1="31.608" y1="19.5072" x2="31.8112" y2="21.0566" width="0" layer="19" extent="1-1"/>
+<wire x1="12.5822" y1="25.9842" x2="31.8112" y2="21.0566" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="LED">
 <contactref element="Q1" pad="3"/>
@@ -1005,9 +1013,9 @@ design rules under a new name.</description>
 <contactref element="OP3" pad="2"/>
 <contactref element="R24" pad="1"/>
 <contactref element="C21" pad="1"/>
-<wire x1="9.183" y1="14.9606" x2="9.183" y2="20.0406" width="0" layer="19" extent="1-1"/>
-<wire x1="25.1714" y1="6.6548" x2="9.183" y2="14.9606" width="0" layer="19" extent="1-1"/>
-<wire x1="52.3148" y1="20.0152" x2="25.1714" y2="6.6548" width="0" layer="19" extent="1-1"/>
+<wire x1="9.4116" y1="14.2494" x2="7.3822" y2="27.2542" width="0" layer="19" extent="1-1"/>
+<wire x1="9.3608" y1="12.4714" x2="9.4116" y2="14.2494" width="0" layer="19" extent="1-1"/>
+<wire x1="12.7" y1="-8.3566" x2="9.3608" y2="12.4714" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="G.A1">
 <contactref element="U1" pad="2"/>
@@ -1023,69 +1031,72 @@ design rules under a new name.</description>
 </signal>
 <signal name="PPG">
 <contactref element="U1" pad="14"/>
-<contactref element="C21" pad="2"/>
-<contactref element="OP3" pad="1"/>
-<wire x1="25.1714" y1="7.9248" x2="10.883" y2="14.9606" width="0" layer="19" extent="1-1"/>
-<wire x1="52.3148" y1="21.2852" x2="25.1714" y2="7.9248" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$13">
 <contactref element="C15" pad="2"/>
 <contactref element="R13" pad="1"/>
 <contactref element="R19" pad="2"/>
 <contactref element="OP3" pad="5"/>
-<wire x1="50.7746" y1="22.5942" x2="-8.8782" y2="30.607" width="0" layer="19" extent="1-1"/>
 <wire x1="47.537" y1="17.8816" x2="50.7746" y2="22.5942" width="0" layer="19" extent="1-1"/>
-<wire x1="52.3148" y1="16.2052" x2="47.537" y2="17.8816" width="0" layer="19" extent="1-1"/>
+<wire x1="7.3822" y1="23.4442" x2="47.537" y2="17.8816" width="0" layer="19" extent="1-1"/>
+<wire x1="-4.0014" y1="28.9052" x2="7.3822" y2="23.4442" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$15">
 <contactref element="OP3" pad="6"/>
 <contactref element="R20" pad="2"/>
 <contactref element="C14" pad="2"/>
 <contactref element="R14" pad="1"/>
-<wire x1="52.3148" y1="14.9352" x2="-8.802" y2="26.3144" width="0" layer="19" extent="1-1"/>
-<wire x1="50.1142" y1="13.247" x2="52.3148" y2="14.9352" width="0" layer="19" extent="1-1"/>
 <wire x1="47.6758" y1="14.7946" x2="50.1142" y2="13.247" width="0" layer="19" extent="1-1"/>
+<wire x1="7.3822" y1="22.1742" x2="47.6758" y2="14.7946" width="0" layer="19" extent="1-1"/>
+<wire x1="-8.1924" y1="4.8006" x2="7.3822" y2="22.1742" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$16">
 <contactref element="R14" pad="2"/>
 <contactref element="OP3" pad="7"/>
 <contactref element="C14" pad="1"/>
 <contactref element="C16" pad="1"/>
-<wire x1="52.3148" y1="13.6652" x2="50.1142" y2="14.947" width="0" layer="19" extent="1-1"/>
-<wire x1="23.8388" y1="20.7772" x2="52.3148" y2="13.6652" width="0" layer="19" extent="1-1"/>
 <wire x1="47.6758" y1="13.0946" x2="50.1142" y2="14.947" width="0" layer="19" extent="1-1"/>
+<wire x1="26.7344" y1="16.3068" x2="47.6758" y2="13.0946" width="0" layer="19" extent="1-1"/>
+<wire x1="7.3822" y1="20.9042" x2="26.7344" y2="16.3068" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$17">
 <contactref element="C16" pad="2"/>
 <contactref element="R15" pad="1"/>
 <contactref element="R21" pad="2"/>
 <contactref element="OP3" pad="10"/>
-<wire x1="57.5148" y1="16.2052" x2="-8.802" y2="21.2344" width="0" layer="19" extent="1-1"/>
-<wire x1="27.4964" y1="19.1262" x2="57.5148" y2="16.2052" width="0" layer="19" extent="1-1"/>
-<wire x1="25.5388" y1="20.7772" x2="27.4964" y2="19.1262" width="0" layer="19" extent="1-1"/>
+<wire x1="30.988" y1="9.7672" x2="28.4344" y2="16.3068" width="0" layer="19" extent="1-1"/>
+<wire x1="12.5822" y1="23.4442" x2="28.4344" y2="16.3068" width="0" layer="19" extent="1-1"/>
+<wire x1="-8.802" y1="21.2344" x2="12.5822" y2="23.4442" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$18">
 <contactref element="OP3" pad="9"/>
 <contactref element="R22" pad="1"/>
 <contactref element="C19" pad="2"/>
 <contactref element="R23" pad="2"/>
-<wire x1="-8.802" y1="11.0744" x2="-10.502" y2="16.1544" width="0" layer="19" extent="1-1"/>
-<wire x1="-8.802" y1="5.9944" x2="-8.802" y2="11.0744" width="0" layer="19" extent="1-1"/>
-<wire x1="57.5148" y1="14.9352" x2="-10.502" y2="16.1544" width="0" layer="19" extent="1-1"/>
+<wire x1="-10.502" y1="16.1544" x2="12.5822" y2="22.1742" width="0" layer="19" extent="1-1"/>
+<wire x1="-10.0448" y1="12.4714" x2="-10.502" y2="16.1544" width="0" layer="19" extent="1-1"/>
+<wire x1="-9.7654" y1="8.255" x2="-10.0448" y2="12.4714" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$19">
 <contactref element="R22" pad="2"/>
 <contactref element="OP3" pad="8"/>
 <contactref element="C19" pad="1"/>
 <contactref element="C20" pad="1"/>
-<wire x1="-8.802" y1="16.1544" x2="9.183" y2="25.1206" width="0" layer="19" extent="1-1"/>
-<wire x1="-10.502" y1="11.0744" x2="-8.802" y2="16.1544" width="0" layer="19" extent="1-1"/>
-<wire x1="57.5148" y1="13.6652" x2="-8.802" y2="16.1544" width="0" layer="19" extent="1-1"/>
+<wire x1="9.7672" y1="16.1798" x2="12.5822" y2="20.9042" width="0" layer="19" extent="1-1"/>
+<wire x1="-8.3448" y1="12.4714" x2="9.7672" y2="16.1798" width="0" layer="19" extent="1-1"/>
+<wire x1="-8.802" y1="16.1544" x2="-8.3448" y2="12.4714" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$20">
 <contactref element="C20" pad="2"/>
 <contactref element="R24" pad="2"/>
-<wire x1="10.883" y1="20.0406" x2="10.883" y2="25.1206" width="0" layer="19" extent="1-1"/>
+<wire x1="11.1116" y1="14.2494" x2="11.4672" y2="16.1798" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="A7/PPG">
+<contactref element="C21" pad="2"/>
+<contactref element="OP3" pad="1"/>
+<contactref element="J1" pad="7"/>
+<wire x1="7.3822" y1="28.5242" x2="20.24" y2="33" width="0" layer="19" extent="1-1"/>
+<wire x1="11.0608" y1="12.4714" x2="7.3822" y2="28.5242" width="0" layer="19" extent="1-1"/>
 </signal>
 </signals>
 <mfgpreviewcolors>
