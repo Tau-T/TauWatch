@@ -4631,14 +4631,14 @@ http://ww1.microchip.com/downloads/en/DeviceDoc/MIC550X.pdf&lt;/il&gt;
 </classes>
 <parts>
 <part name="R10" library="LinnesLab-Passives" deviceset="RESISTOR" device="0603" package3d_urn="urn:adsk.eagle:package:15661944/2" value="10k"/>
-<part name="C15" library="LinnesLab-Passives" deviceset="CAPACITOR" device="0603" package3d_urn="urn:adsk.eagle:package:15661989/2" value="100n"/>
+<part name="C13" library="LinnesLab-Passives" deviceset="CAPACITOR" device="0603" package3d_urn="urn:adsk.eagle:package:15661989/2" value="100n"/>
 <part name="D3" library="LinnesLab-DiscreteSemi" deviceset="SCHOTTKY" device="-USC" package3d_urn="urn:adsk.eagle:package:15664784/2"/>
 <part name="SUPPLY6" library="LinnesLab-Symbols" deviceset="3.3V" device=""/>
 <part name="GND40" library="LinnesLab-Symbols" deviceset="GND" device=""/>
 <part name="SUPPLY7" library="LinnesLab-Symbols" deviceset="3.3V" device=""/>
 <part name="GND41" library="LinnesLab-Symbols" deviceset="GND" device=""/>
 <part name="DEBUG1" library="LinnesLab-Connectors" deviceset="CORTEX_DEBUG" device="_PTH" override_package3d_urn="urn:adsk.eagle:package:18579095/2" override_package_urn="urn:adsk.eagle:footprint:18579096/1"/>
-<part name="SW4" library="LinnesLab-Switches" deviceset="SPST-PTS830GG140-COPY" device=".1-3" package3d_urn="urn:adsk.eagle:package:18580190/2"/>
+<part name="RESET" library="LinnesLab-Switches" deviceset="SPST-PTS830GG140-COPY" device=".1-3" package3d_urn="urn:adsk.eagle:package:18580190/2"/>
 <part name="GND7" library="LinnesLab-Symbols" deviceset="GND" device=""/>
 <part name="C7" library="LinnesLab-Passives" deviceset="CAPACITOR" device="0402" package3d_urn="urn:adsk.eagle:package:15402268/2" value="2.2uF"/>
 <part name="C5" library="LinnesLab-Passives" deviceset="CAPACITOR" device="0402" package3d_urn="urn:adsk.eagle:package:15402268/2" value="2.2uF"/>
@@ -4685,13 +4685,13 @@ http://ww1.microchip.com/downloads/en/DeviceDoc/MIC550X.pdf&lt;/il&gt;
 <part name="SUPPLY22" library="LinnesLab-Symbols" deviceset="3.3V" device=""/>
 <part name="SUPPLY23" library="LinnesLab-Symbols" deviceset="3.3V" device=""/>
 <part name="SUPPLY24" library="LinnesLab-Symbols" deviceset="3.3V" device=""/>
-<part name="C17" library="LinnesLab-Passives" deviceset="CAPACITOR" device="0603" package3d_urn="urn:adsk.eagle:package:15661989/2" value="100n"/>
+<part name="C15" library="LinnesLab-Passives" deviceset="CAPACITOR" device="0603" package3d_urn="urn:adsk.eagle:package:15661989/2" value="100n"/>
 <part name="GND46" library="LinnesLab-Symbols" deviceset="GND" device=""/>
-<part name="C14" library="LinnesLab-Passives" deviceset="CAPACITOR" device="0603" package3d_urn="urn:adsk.eagle:package:15661989/2" value="47p"/>
-<part name="C13" library="LinnesLab-Passives" deviceset="CAPACITOR" device="0603" package3d_urn="urn:adsk.eagle:package:15661989/2" value="47p"/>
+<part name="C12" library="LinnesLab-Passives" deviceset="CAPACITOR" device="0603" package3d_urn="urn:adsk.eagle:package:15661989/2" value="47p"/>
+<part name="C11" library="LinnesLab-Passives" deviceset="CAPACITOR" device="0603" package3d_urn="urn:adsk.eagle:package:15661989/2" value="47p"/>
 <part name="GND47" library="LinnesLab-Symbols" deviceset="GND" device=""/>
 <part name="GND48" library="LinnesLab-Symbols" deviceset="GND" device=""/>
-<part name="U4" library="LinnesLab-DigitalIC" deviceset="FT231X" device="S"/>
+<part name="U3" library="LinnesLab-DigitalIC" deviceset="FT231X" device="S"/>
 <part name="R14" library="LinnesLab-Passives" deviceset="RESISTOR" device="0603" package3d_urn="urn:adsk.eagle:package:15661944/2" value="0"/>
 <part name="R15" library="LinnesLab-Passives" deviceset="RESISTOR" device="0603" package3d_urn="urn:adsk.eagle:package:15661944/2" value="0"/>
 <part name="R1" library="LinnesLab-Passives" deviceset="RESISTOR" device="0603" package3d_urn="urn:adsk.eagle:package:15661944/2" value="10k"/>
@@ -4727,10 +4727,10 @@ http://ww1.microchip.com/downloads/en/DeviceDoc/MIC550X.pdf&lt;/il&gt;
 <part name="LED2" library="LinnesLab-LED" deviceset="LED" device="0603" package3d_urn="urn:adsk.eagle:package:18593052/2" value="BLUE"/>
 <part name="CHRG1" library="LinnesLab-Power" deviceset="MCP73831" device=""/>
 <part name="LDO1" library="LinnesLab-Power" deviceset="MIC5504" device=""/>
-<part name="C11" library="LinnesLab-Passives" deviceset="CAPACITOR" device="0603" package3d_urn="urn:adsk.eagle:package:15661989/2" value="1u"/>
-<part name="C12" library="LinnesLab-Passives" deviceset="CAPACITOR" device="0603" package3d_urn="urn:adsk.eagle:package:15661989/2" value="1u"/>
-<part name="C16" library="LinnesLab-Passives" deviceset="CAPACITOR" device="0603" package3d_urn="urn:adsk.eagle:package:15661989/2" value="4.7u"/>
+<part name="C16" library="LinnesLab-Passives" deviceset="CAPACITOR" device="0603" package3d_urn="urn:adsk.eagle:package:15661989/2" value="1u"/>
+<part name="C17" library="LinnesLab-Passives" deviceset="CAPACITOR" device="0603" package3d_urn="urn:adsk.eagle:package:15661989/2" value="1u"/>
 <part name="C18" library="LinnesLab-Passives" deviceset="CAPACITOR" device="0603" package3d_urn="urn:adsk.eagle:package:15661989/2" value="4.7u"/>
+<part name="C14" library="LinnesLab-Passives" deviceset="CAPACITOR" device="0603" package3d_urn="urn:adsk.eagle:package:15661989/2" value="4.7u"/>
 <part name="R11" library="LinnesLab-Passives" deviceset="RESISTOR" device="0603" package3d_urn="urn:adsk.eagle:package:15661944/2"/>
 <part name="R9" library="LinnesLab-Passives" deviceset="RESISTOR" device="0603" package3d_urn="urn:adsk.eagle:package:15661944/2" value="100k"/>
 <part name="GND5" library="LinnesLab-Symbols" deviceset="GND" device=""/>
@@ -4914,7 +4914,7 @@ per MCP73831 document</text>
 <attribute name="NAME" x="173.99" y="9.1186" size="1.778" layer="95"/>
 <attribute name="VALUE" x="173.99" y="4.318" size="1.778" layer="96"/>
 </instance>
-<instance part="C15" gate="G$1" x="165.1" y="-2.54" smashed="yes" rot="R90">
+<instance part="C13" gate="G$1" x="165.1" y="-2.54" smashed="yes" rot="R90">
 <attribute name="NAME" x="162.179" y="-1.016" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="167.259" y="-1.016" size="1.778" layer="96" rot="R90"/>
 </instance>
@@ -4938,7 +4938,7 @@ per MCP73831 document</text>
 <attribute name="NAME" x="152.4" y="58.674" size="1.778" layer="95" font="vector"/>
 <attribute name="VALUE" x="152.4" y="40.894" size="1.778" layer="96" font="vector"/>
 </instance>
-<instance part="SW4" gate="G$1" x="172.72" y="-12.7" smashed="yes">
+<instance part="RESET" gate="G$1" x="172.72" y="-12.7" smashed="yes">
 <attribute name="NAME" x="170.18" y="-15.24" size="1.27" layer="95"/>
 <attribute name="VALUE" x="170.18" y="-17.78" size="1.27" layer="96"/>
 </instance>
@@ -5104,18 +5104,18 @@ per MCP73831 document</text>
 <instance part="SUPPLY24" gate="G$1" x="175.26" y="167.64" smashed="yes">
 <attribute name="VALUE" x="175.26" y="170.434" size="1.778" layer="96" align="bottom-center"/>
 </instance>
-<instance part="C17" gate="G$1" x="175.26" y="139.7" smashed="yes" rot="R180">
+<instance part="C15" gate="G$1" x="175.26" y="139.7" smashed="yes" rot="R180">
 <attribute name="NAME" x="173.736" y="136.779" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="173.736" y="141.859" size="1.778" layer="96" rot="R180"/>
 </instance>
 <instance part="GND46" gate="G$1" x="175.26" y="127" smashed="yes">
 <attribute name="VALUE" x="175.26" y="126.746" size="1.778" layer="96" align="top-center"/>
 </instance>
-<instance part="C14" gate="G$1" x="157.48" y="139.7" smashed="yes">
+<instance part="C12" gate="G$1" x="157.48" y="139.7" smashed="yes">
 <attribute name="NAME" x="159.004" y="142.621" size="1.778" layer="95"/>
 <attribute name="VALUE" x="159.004" y="137.541" size="1.778" layer="96"/>
 </instance>
-<instance part="C13" gate="G$1" x="149.86" y="142.24" smashed="yes" rot="R180">
+<instance part="C11" gate="G$1" x="149.86" y="142.24" smashed="yes" rot="R180">
 <attribute name="NAME" x="148.336" y="139.319" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="148.336" y="144.399" size="1.778" layer="96" rot="R180"/>
 </instance>
@@ -5125,7 +5125,7 @@ per MCP73831 document</text>
 <instance part="GND48" gate="G$1" x="149.86" y="132.08" smashed="yes">
 <attribute name="VALUE" x="149.86" y="131.826" size="1.778" layer="96" align="top-center"/>
 </instance>
-<instance part="U4" gate="U$1" x="198.12" y="147.32" smashed="yes">
+<instance part="U3" gate="U$1" x="198.12" y="147.32" smashed="yes">
 <attribute name="NAME" x="187.96" y="165.354" size="1.778" layer="95"/>
 <attribute name="VALUE" x="187.96" y="129.032" size="1.778" layer="96" align="top-left"/>
 </instance>
@@ -5253,19 +5253,19 @@ per MCP73831 document</text>
 <attribute name="NAME" x="187.96" y="-90.17" size="1.778" layer="95"/>
 <attribute name="VALUE" x="187.96" y="-109.22" size="1.778" layer="96"/>
 </instance>
-<instance part="C11" gate="G$1" x="175.26" y="-99.06" smashed="yes" rot="R180">
+<instance part="C16" gate="G$1" x="175.26" y="-99.06" smashed="yes" rot="R180">
 <attribute name="NAME" x="173.736" y="-101.981" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="173.736" y="-96.901" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="C12" gate="G$1" x="208.28" y="-101.6" smashed="yes">
+<instance part="C17" gate="G$1" x="208.28" y="-101.6" smashed="yes">
 <attribute name="NAME" x="209.804" y="-98.679" size="1.778" layer="95"/>
 <attribute name="VALUE" x="209.804" y="-103.759" size="1.778" layer="96"/>
 </instance>
-<instance part="C16" gate="G$1" x="220.98" y="-134.62" smashed="yes">
+<instance part="C18" gate="G$1" x="220.98" y="-134.62" smashed="yes">
 <attribute name="NAME" x="222.504" y="-131.699" size="1.778" layer="95"/>
 <attribute name="VALUE" x="222.504" y="-136.779" size="1.778" layer="96"/>
 </instance>
-<instance part="C18" gate="G$1" x="167.64" y="-132.08" smashed="yes" rot="R180">
+<instance part="C14" gate="G$1" x="167.64" y="-132.08" smashed="yes" rot="R180">
 <attribute name="NAME" x="166.116" y="-135.001" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="166.116" y="-129.921" size="1.778" layer="96" rot="R180"/>
 </instance>
@@ -5320,7 +5320,7 @@ per MCP73831 document</text>
 <wire x1="177.8" y1="-12.7" x2="180.34" y2="-12.7" width="0.1524" layer="91"/>
 <wire x1="180.34" y1="-12.7" x2="180.34" y2="-15.24" width="0.1524" layer="91"/>
 <pinref part="GND40" gate="G$1" pin="GND"/>
-<pinref part="SW4" gate="G$1" pin="B"/>
+<pinref part="RESET" gate="G$1" pin="B"/>
 </segment>
 <segment>
 <wire x1="149.86" y1="45.72" x2="147.32" y2="45.72" width="0.1524" layer="91"/>
@@ -5440,8 +5440,8 @@ per MCP73831 document</text>
 <wire x1="185.42" y1="132.08" x2="182.88" y2="132.08" width="0.1524" layer="91"/>
 <junction x="182.88" y="132.08"/>
 <pinref part="GND18" gate="G$1" pin="GND"/>
-<pinref part="U4" gate="U$1" pin="GND@6"/>
-<pinref part="U4" gate="U$1" pin="GND@16"/>
+<pinref part="U3" gate="U$1" pin="GND@6"/>
+<pinref part="U3" gate="U$1" pin="GND@16"/>
 </segment>
 <segment>
 <pinref part="GND45" gate="G$1" pin="GND"/>
@@ -5449,17 +5449,17 @@ per MCP73831 document</text>
 <pinref part="JP1" gate="G$1" pin="1"/>
 </segment>
 <segment>
-<pinref part="C17" gate="G$1" pin="1"/>
+<pinref part="C15" gate="G$1" pin="1"/>
 <pinref part="GND46" gate="G$1" pin="GND"/>
 <wire x1="175.26" y1="129.54" x2="175.26" y2="134.62" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="C14" gate="G$1" pin="2"/>
+<pinref part="C12" gate="G$1" pin="2"/>
 <pinref part="GND47" gate="G$1" pin="GND"/>
 <wire x1="157.48" y1="137.16" x2="157.48" y2="134.62" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="C13" gate="G$1" pin="1"/>
+<pinref part="C11" gate="G$1" pin="1"/>
 <pinref part="GND48" gate="G$1" pin="GND"/>
 <wire x1="149.86" y1="137.16" x2="149.86" y2="134.62" width="0.1524" layer="91"/>
 </segment>
@@ -5528,7 +5528,7 @@ per MCP73831 document</text>
 <pinref part="U1" gate="G$1" pin="GND@2"/>
 </segment>
 <segment>
-<pinref part="C11" gate="G$1" pin="1"/>
+<pinref part="C16" gate="G$1" pin="1"/>
 <pinref part="GND5" gate="G$1" pin="GND"/>
 <wire x1="175.26" y1="-106.68" x2="175.26" y2="-104.14" width="0.1524" layer="91"/>
 </segment>
@@ -5539,12 +5539,12 @@ per MCP73831 document</text>
 <pinref part="GND2" gate="G$1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="C12" gate="G$1" pin="2"/>
+<pinref part="C17" gate="G$1" pin="2"/>
 <pinref part="GND6" gate="G$1" pin="GND"/>
 <wire x1="208.28" y1="-109.22" x2="208.28" y2="-104.14" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="C16" gate="G$1" pin="2"/>
+<pinref part="C18" gate="G$1" pin="2"/>
 <pinref part="GND13" gate="G$1" pin="GND"/>
 <wire x1="220.98" y1="-139.7" x2="220.98" y2="-137.16" width="0.1524" layer="91"/>
 </segment>
@@ -5554,7 +5554,7 @@ per MCP73831 document</text>
 <wire x1="213.36" y1="-144.78" x2="213.36" y2="-142.24" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="C18" gate="G$1" pin="1"/>
+<pinref part="C14" gate="G$1" pin="1"/>
 <pinref part="GND15" gate="G$1" pin="GND"/>
 <wire x1="167.64" y1="-139.7" x2="167.64" y2="-137.16" width="0.1524" layer="91"/>
 </segment>
@@ -5641,12 +5641,12 @@ per MCP73831 document</text>
 <pinref part="SUPPLY24" gate="G$1" pin="3.3V"/>
 <wire x1="175.26" y1="160.02" x2="175.26" y2="144.78" width="0.1524" layer="91"/>
 <junction x="175.26" y="160.02"/>
-<pinref part="C17" gate="G$1" pin="2"/>
+<pinref part="C15" gate="G$1" pin="2"/>
 <wire x1="175.26" y1="144.78" x2="175.26" y2="142.24" width="0.1524" layer="91"/>
 <wire x1="185.42" y1="144.78" x2="175.26" y2="144.78" width="0.1524" layer="91"/>
 <junction x="175.26" y="144.78"/>
-<pinref part="U4" gate="U$1" pin="VCCIO"/>
-<pinref part="U4" gate="U$1" pin="!RESET"/>
+<pinref part="U3" gate="U$1" pin="VCCIO"/>
+<pinref part="U3" gate="U$1" pin="!RESET"/>
 </segment>
 <segment>
 <pinref part="R2" gate="G$1" pin="2"/>
@@ -5676,7 +5676,7 @@ per MCP73831 document</text>
 <segment>
 <pinref part="LDO1" gate="G$1" pin="OUT"/>
 <wire x1="203.2" y1="-93.98" x2="208.28" y2="-93.98" width="0.1524" layer="91"/>
-<pinref part="C12" gate="G$1" pin="1"/>
+<pinref part="C17" gate="G$1" pin="1"/>
 <wire x1="208.28" y1="-93.98" x2="208.28" y2="-96.52" width="0.1524" layer="91"/>
 <pinref part="SUPPLY12" gate="G$1" pin="3.3V"/>
 <wire x1="208.28" y1="-91.44" x2="208.28" y2="-93.98" width="0.1524" layer="91"/>
@@ -5719,14 +5719,14 @@ per MCP73831 document</text>
 <pinref part="R10" gate="G$1" pin="1"/>
 <wire x1="172.72" y1="7.62" x2="170.18" y2="7.62" width="0.1524" layer="91"/>
 <pinref part="D3" gate="G$1" pin="A"/>
-<pinref part="C15" gate="G$1" pin="2"/>
+<pinref part="C13" gate="G$1" pin="2"/>
 <wire x1="167.64" y1="-2.54" x2="170.18" y2="-2.54" width="0.1524" layer="91"/>
 <junction x="170.18" y="-2.54"/>
 </segment>
 <segment>
 <wire x1="165.1" y1="-12.7" x2="167.64" y2="-12.7" width="0.1524" layer="91"/>
 <label x="165.1" y="-12.7" size="1.27" layer="95" rot="R180" xref="yes"/>
-<pinref part="SW4" gate="G$1" pin="A"/>
+<pinref part="RESET" gate="G$1" pin="A"/>
 </segment>
 <segment>
 <wire x1="185.42" y1="45.72" x2="182.88" y2="45.72" width="0.1524" layer="91"/>
@@ -5795,13 +5795,13 @@ per MCP73831 document</text>
 <net name="DTR" class="0">
 <segment>
 <wire x1="157.48" y1="-2.54" x2="160.02" y2="-2.54" width="0.1524" layer="91"/>
-<pinref part="C15" gate="G$1" pin="1"/>
+<pinref part="C13" gate="G$1" pin="1"/>
 <label x="157.48" y="-2.54" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
 <wire x1="210.82" y1="149.86" x2="215.9" y2="149.86" width="0.1524" layer="91"/>
 <label x="215.9" y="149.86" size="1.27" layer="95" xref="yes"/>
-<pinref part="U4" gate="U$1" pin="!DTR"/>
+<pinref part="U3" gate="U$1" pin="!DTR"/>
 </segment>
 </net>
 <net name="N$23" class="0">
@@ -5889,7 +5889,7 @@ per MCP73831 document</text>
 <segment>
 <pinref part="CHRG1" gate="G$1" pin="VBAT"/>
 <wire x1="203.2" y1="-127" x2="220.98" y2="-127" width="0.1524" layer="91"/>
-<pinref part="C16" gate="G$1" pin="1"/>
+<pinref part="C18" gate="G$1" pin="1"/>
 <wire x1="220.98" y1="-127" x2="220.98" y2="-129.54" width="0.1524" layer="91"/>
 <pinref part="SUPPLY3" gate="G$1" pin="VLIPO"/>
 <wire x1="220.98" y1="-124.46" x2="220.98" y2="-127" width="0.1524" layer="91"/>
@@ -5910,7 +5910,7 @@ per MCP73831 document</text>
 <wire x1="185.42" y1="162.56" x2="182.88" y2="162.56" width="0.1524" layer="91"/>
 <wire x1="182.88" y1="162.56" x2="182.88" y2="167.64" width="0.1524" layer="91"/>
 <pinref part="SUPPLY21" gate="G$1" pin="V_USB"/>
-<pinref part="U4" gate="U$1" pin="VCC"/>
+<pinref part="U3" gate="U$1" pin="VCC"/>
 </segment>
 </net>
 <net name="USB-" class="0">
@@ -5922,7 +5922,7 @@ per MCP73831 document</text>
 <segment>
 <pinref part="R7" gate="G$1" pin="1"/>
 <wire x1="162.56" y1="152.4" x2="149.86" y2="152.4" width="0.1524" layer="91"/>
-<pinref part="C13" gate="G$1" pin="2"/>
+<pinref part="C11" gate="G$1" pin="2"/>
 <wire x1="149.86" y1="144.78" x2="149.86" y2="152.4" width="0.1524" layer="91"/>
 <junction x="149.86" y="152.4"/>
 <wire x1="144.78" y1="152.4" x2="149.86" y2="152.4" width="0.1524" layer="91"/>
@@ -5938,7 +5938,7 @@ per MCP73831 document</text>
 <segment>
 <pinref part="R8" gate="G$1" pin="1"/>
 <wire x1="162.56" y1="149.86" x2="157.48" y2="149.86" width="0.1524" layer="91"/>
-<pinref part="C14" gate="G$1" pin="1"/>
+<pinref part="C12" gate="G$1" pin="1"/>
 <wire x1="157.48" y1="149.86" x2="144.78" y2="149.86" width="0.1524" layer="91"/>
 <wire x1="157.48" y1="144.78" x2="157.48" y2="149.86" width="0.1524" layer="91"/>
 <junction x="157.48" y="149.86"/>
@@ -5973,14 +5973,14 @@ per MCP73831 document</text>
 <segment>
 <wire x1="185.42" y1="152.4" x2="172.72" y2="152.4" width="0.1524" layer="91"/>
 <pinref part="R7" gate="G$1" pin="2"/>
-<pinref part="U4" gate="U$1" pin="USBDM"/>
+<pinref part="U3" gate="U$1" pin="USBDM"/>
 </segment>
 </net>
 <net name="N$24" class="0">
 <segment>
 <wire x1="185.42" y1="149.86" x2="172.72" y2="149.86" width="0.1524" layer="91"/>
 <pinref part="R8" gate="G$1" pin="2"/>
-<pinref part="U4" gate="U$1" pin="USBDP"/>
+<pinref part="U3" gate="U$1" pin="USBDP"/>
 </segment>
 </net>
 <net name="!CTS" class="0">
@@ -5989,7 +5989,7 @@ per MCP73831 document</text>
 <wire x1="213.36" y1="152.4" x2="213.36" y2="129.54" width="0.1524" layer="91"/>
 <pinref part="JP1" gate="G$1" pin="2"/>
 <label x="213.36" y="152.4" size="1.27" layer="95" xref="yes"/>
-<pinref part="U4" gate="U$1" pin="!CTS"/>
+<pinref part="U3" gate="U$1" pin="!CTS"/>
 </segment>
 </net>
 <net name="N$25" class="0">
@@ -6012,7 +6012,7 @@ per MCP73831 document</text>
 <pinref part="R13" gate="G$1" pin="1"/>
 <wire x1="228.6" y1="137.16" x2="228.6" y2="144.78" width="0.1524" layer="91"/>
 <label x="218.44" y="137.16" size="1.27" layer="95"/>
-<pinref part="U4" gate="U$1" pin="CBUS1"/>
+<pinref part="U3" gate="U$1" pin="CBUS1"/>
 </segment>
 </net>
 <net name="TXLED" class="0">
@@ -6021,12 +6021,12 @@ per MCP73831 document</text>
 <wire x1="210.82" y1="134.62" x2="238.76" y2="134.62" width="0.1524" layer="91"/>
 <wire x1="238.76" y1="134.62" x2="238.76" y2="144.78" width="0.1524" layer="91"/>
 <label x="218.44" y="134.62" size="1.27" layer="95"/>
-<pinref part="U4" gate="U$1" pin="CBUS2"/>
+<pinref part="U3" gate="U$1" pin="CBUS2"/>
 </segment>
 </net>
 <net name="FT3V3" class="0">
 <segment>
-<pinref part="U4" gate="U$1" pin="3V3OUT"/>
+<pinref part="U3" gate="U$1" pin="3V3OUT"/>
 <wire x1="185.42" y1="157.48" x2="182.88" y2="157.48" width="0.1524" layer="91"/>
 <label x="182.88" y="157.48" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -6035,7 +6035,7 @@ per MCP73831 document</text>
 <segment>
 <wire x1="213.36" y1="162.56" x2="210.82" y2="162.56" width="0.1524" layer="91"/>
 <label x="213.36" y="162.56" size="1.27" layer="95" xref="yes"/>
-<pinref part="U4" gate="U$1" pin="TXD"/>
+<pinref part="U3" gate="U$1" pin="TXD"/>
 </segment>
 <segment>
 <pinref part="R14" gate="G$1" pin="1"/>
@@ -6047,7 +6047,7 @@ per MCP73831 document</text>
 <segment>
 <wire x1="213.36" y1="160.02" x2="210.82" y2="160.02" width="0.1524" layer="91"/>
 <label x="213.36" y="160.02" size="1.27" layer="95" xref="yes"/>
-<pinref part="U4" gate="U$1" pin="RXD"/>
+<pinref part="U3" gate="U$1" pin="RXD"/>
 </segment>
 <segment>
 <pinref part="R15" gate="G$1" pin="1"/>
@@ -6316,7 +6316,7 @@ per MCP73831 document</text>
 </net>
 <net name="VIN1" class="0">
 <segment>
-<pinref part="C11" gate="G$1" pin="2"/>
+<pinref part="C16" gate="G$1" pin="2"/>
 <pinref part="LDO1" gate="G$1" pin="IN"/>
 <wire x1="160.02" y1="-93.98" x2="175.26" y2="-93.98" width="0.1524" layer="91"/>
 <wire x1="175.26" y1="-93.98" x2="175.26" y2="-96.52" width="0.1524" layer="91"/>
@@ -6329,7 +6329,7 @@ per MCP73831 document</text>
 <junction x="182.88" y="-93.98"/>
 <pinref part="CHRG1" gate="G$1" pin="VIN"/>
 <wire x1="182.88" y1="-127" x2="175.26" y2="-127" width="0.1524" layer="91"/>
-<pinref part="C18" gate="G$1" pin="2"/>
+<pinref part="C14" gate="G$1" pin="2"/>
 <wire x1="175.26" y1="-127" x2="167.64" y2="-127" width="0.1524" layer="91"/>
 <wire x1="167.64" y1="-127" x2="160.02" y2="-127" width="0.1524" layer="91"/>
 <wire x1="167.64" y1="-129.54" x2="167.64" y2="-127" width="0.1524" layer="91"/>

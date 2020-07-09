@@ -3017,7 +3017,7 @@ if desired</text>
 <pinref part="U3" gate="G$1" pin="SCL"/>
 </segment>
 </net>
-<net name="A6/TIA" class="0">
+<net name="A5/TIA" class="0">
 <segment>
 <wire x1="124.46" y1="25.4" x2="119.38" y2="25.4" width="0.1524" layer="91"/>
 <label x="119.38" y="25.4" size="1.27" layer="95" rot="R180" xref="yes"/>
@@ -3177,7 +3177,7 @@ if desired</text>
 <junction x="220.98" y="22.86"/>
 </segment>
 </net>
-<net name="D29/LED.CTRL" class="0">
+<net name="D30/LED.CTRL" class="0">
 <segment>
 <pinref part="U$4" gate="G$1" pin="A"/>
 <wire x1="218.44" y1="27.94" x2="220.98" y2="27.94" width="0.1524" layer="91"/>
@@ -3298,7 +3298,7 @@ if desired</text>
 <wire x1="175.26" y1="91.44" x2="172.72" y2="91.44" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="A7/PPG" class="0">
+<net name="A4/PPG" class="0">
 <segment>
 <pinref part="C21" gate="G$1" pin="2"/>
 <wire x1="200.66" y1="99.06" x2="208.28" y2="99.06" width="0.1524" layer="91"/>
