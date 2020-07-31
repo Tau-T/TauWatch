@@ -2469,6 +2469,10 @@ and Bypass Capacitors</text>
 <text x="175.26" y="-71.12" size="1.27" layer="97">Back-up
 battery
 if desired</text>
+<text x="170.18" y="-10.16" size="1.778" layer="97">I_B = (3.3V - .6V)/(R_pot + R16)
+LED_current = I_B*Gain
+Current Gain of an NPN transistor is often written as HFE in datasheets</text>
+<text x="53.34" y="134.62" size="1.778" layer="97">Gain = -Rf (in pass band)</text>
 </plain>
 <instances>
 <instance part="U$3" gate="G$1" x="2.54" y="101.6" smashed="yes"/>
